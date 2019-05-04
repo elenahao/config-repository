@@ -1,7 +1,4 @@
 spring:
-  cloud:
-    config:
-      profile: local
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
