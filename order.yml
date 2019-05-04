@@ -7,6 +7,6 @@ spring:
     password: root123456
     url: jdbc:mysql://127.0.0.1:3306/sc_scaffold?characterEncoding=utf-8&useSSL=false
 proxy:
-  port: 8978
+  port: 8979
   host: 192.168.112.221
   
