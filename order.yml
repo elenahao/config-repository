@@ -1,11 +1,2 @@
-spring:
-  profile: dev
-  datasource:
-    driver-class-name: com.mysql.jdbc.Driver
-    username: root
-    password: root123456
-    url: jdbc:mysql://127.0.0.1:3306/sc_scaffold?characterEncoding=utf-8&useSSL=false
-env: dev
-proxy1:
-  host: 192.168.111.122
-  port: 7980
+server:
+  port: 8082
